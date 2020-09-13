@@ -6,6 +6,9 @@
 
 GitHub usernames: f003kgm (Maria), ssagrawal01 (Siddharth), zanderh3 (Alexander), druyang (Andrw) 
 
+Final presentation can be seen here: 
+https://docs.google.com/presentation/d/19MbTdJ4Y4scTl81Q2VhmfVYgijOhMfeTtsNV6rx0ueI/edit?usp=sharing
+
 
 ### Compiling and Building 
 
