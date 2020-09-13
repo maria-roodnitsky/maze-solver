@@ -1,0 +1,10 @@
+dru, 34255, Mon Mar  9 13:08:43 2020
+
+
+Iteration: 0. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 21 Y: 27 
+	First move, so no prior move to report.
+	Avatar #0 is now requesting to move south.
+
+*** Received AM_MAZE_SOLVED ***
+Message contents: Num avatars: 1; Difficulty level: 6; Num moves: 0; Hash: -100144674

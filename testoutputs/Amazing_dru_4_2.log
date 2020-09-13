@@ -1,0 +1,4270 @@
+dru, 33449, Mon Mar  9 14:06:13 2020
+
+
+Iteration: 0. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 9 
+	Avatar ID: 1 X: 0 Y: 5 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 8 
+	First move, so no prior move to report.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 1. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 5 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 2. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 3. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 4. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 5. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 6. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 7. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 8. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 9. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 10. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 8 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 11. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 7 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 12. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 7 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 13. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 6 Y: 7 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 14. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 6 Y: 7 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 15. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 16. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 17. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 18. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 19. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 20. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 8 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 21. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 22. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 7 Y: 7 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 23. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 24. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 9 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 25. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 9 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 26. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 9 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 27. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 9 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 28. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 9 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 29. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 30. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 7 Y: 6 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 31. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 7 Y: 5 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 32. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 7 Y: 5 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 33. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 7 Y: 5 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 34. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 7 Y: 5 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 35. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 36. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 37. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 38. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 39. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 40. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 41. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 42. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 8 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 43. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 9 Y: 5 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 44. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 9 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 9 Y: 5 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 45. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 9 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 9 Y: 5 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 46. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 9 
+	Avatar ID: 1 X: 0 Y: 8 
+	Avatar ID: 2 X: 9 Y: 5 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 47. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 9 
+	Avatar ID: 1 X: 0 Y: 8 
+	Avatar ID: 2 X: 9 Y: 6 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 48. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 9 
+	Avatar ID: 1 X: 0 Y: 8 
+	Avatar ID: 2 X: 9 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 49. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 0 Y: 8 
+	Avatar ID: 2 X: 9 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 50. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 9 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 51. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 8 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 52. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 8 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 53. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 0 Y: 9 
+	Avatar ID: 2 X: 8 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 54. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 6 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 55. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 7 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 56. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 8 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 7 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 57. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 8 Y: 7 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 58. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 7 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 59. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 60. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 61. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 62. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 63. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 64. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 7 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 65. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 6 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 66. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 6 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 8 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 67. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 6 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 9 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 68. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 3 Y: 6 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 9 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 69. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 6 
+	Avatar ID: 1 X: 2 Y: 9 
+	Avatar ID: 2 X: 9 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 70. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 6 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 9 Y: 8 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 71. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 6 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 72. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 6 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 73. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 7 
+	Avatar ID: 1 X: 1 Y: 9 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 74. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 7 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 75. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 7 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 76. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 7 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 77. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 8 
+	Avatar ID: 1 X: 1 Y: 8 
+	Avatar ID: 2 X: 8 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 78. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 8 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 79. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 80. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 4 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 81. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 82. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 9 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 83. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 10 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 84. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 5 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 10 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 85. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 8 
+	Avatar ID: 1 X: 2 Y: 8 
+	Avatar ID: 2 X: 10 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 86. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 8 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 10 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 87. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 8 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 88. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 8 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 89. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 90. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 9 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 91. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 92. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 6 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 93. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 94. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 95. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 96. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 7 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 97. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 6 
+	Avatar ID: 1 X: 2 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 98. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 6 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 11 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 99. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 6 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 8 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 100. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 6 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 8 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 101. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 5 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 8 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 102. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 5 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 8 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 103. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 5 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 104. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 5 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 105. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 5 
+	Avatar ID: 1 X: 1 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 106. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 5 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 107. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 5 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 108. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 5 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 109. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 5 
+	Avatar ID: 1 X: 0 Y: 7 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 110. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 5 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 10 Y: 7 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 111. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 5 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 112. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 5 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 113. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 6 
+	Avatar ID: 1 X: 0 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 114. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 6 
+	Avatar ID: 1 X: 1 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 115. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 6 
+	Avatar ID: 1 X: 1 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 116. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 6 
+	Avatar ID: 1 X: 1 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 117. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 6 
+	Avatar ID: 1 X: 1 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 118. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 6 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 6 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 119. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 6 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 120. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 6 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 121. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 7 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 122. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 7 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 123. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 7 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 124. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 7 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 125. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 8 
+	Avatar ID: 1 X: 2 Y: 6 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 126. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 8 
+	Avatar ID: 1 X: 2 Y: 5 
+	Avatar ID: 2 X: 10 Y: 5 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 127. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 8 
+	Avatar ID: 1 X: 2 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 128. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 8 
+	Avatar ID: 1 X: 2 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 129. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 8 
+	Avatar ID: 1 X: 2 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 130. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 8 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 131. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 8 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 132. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 8 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 133. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 9 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 134. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 9 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 135. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 9 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 136. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 9 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 137. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 9 
+	Avatar ID: 1 X: 3 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 138. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 10 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 139. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 140. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 141. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 142. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 143. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 144. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 9 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 145. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 8 
+	Avatar ID: 1 X: 4 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 146. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 8 
+	Avatar ID: 1 X: 5 Y: 5 
+	Avatar ID: 2 X: 9 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 147. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 8 
+	Avatar ID: 1 X: 5 Y: 5 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 148. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 8 
+	Avatar ID: 1 X: 5 Y: 5 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 149. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 8 
+	Avatar ID: 1 X: 5 Y: 5 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 150. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 8 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 151. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 8 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 152. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 8 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 153. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 7 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 154. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 7 
+	Avatar ID: 1 X: 5 Y: 7 
+	Avatar ID: 2 X: 8 Y: 4 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 155. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 7 
+	Avatar ID: 1 X: 5 Y: 7 
+	Avatar ID: 2 X: 7 Y: 4 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 156. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 7 
+	Avatar ID: 1 X: 5 Y: 7 
+	Avatar ID: 2 X: 7 Y: 4 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 157. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 6 
+	Avatar ID: 1 X: 5 Y: 7 
+	Avatar ID: 2 X: 7 Y: 4 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 158. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 6 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 7 Y: 4 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 159. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 6 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 7 Y: 3 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 160. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 6 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 7 Y: 3 
+	Avatar ID: 3 X: 3 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 161. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 5 
+	Avatar ID: 1 X: 5 Y: 6 
+	Avatar ID: 2 X: 7 Y: 3 
+	Avatar ID: 3 X: 3 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 162. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 5 
+	Avatar ID: 1 X: 6 Y: 6 
+	Avatar ID: 2 X: 7 Y: 3 
+	Avatar ID: 3 X: 3 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 163. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 5 
+	Avatar ID: 1 X: 6 Y: 6 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 164. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 5 
+	Avatar ID: 1 X: 6 Y: 6 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 165. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 4 
+	Avatar ID: 1 X: 6 Y: 6 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 166. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 4 
+	Avatar ID: 1 X: 6 Y: 5 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 167. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 4 
+	Avatar ID: 1 X: 6 Y: 5 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 168. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 4 
+	Avatar ID: 1 X: 6 Y: 5 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 169. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 4 
+	Avatar ID: 1 X: 6 Y: 5 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 170. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 3 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 171. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 3 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 172. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 173. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 174. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 175. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 3 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 176. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 177. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 4 
+	Avatar ID: 1 X: 6 Y: 4 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 178. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 4 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 2 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 179. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 4 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 180. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 4 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 181. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 182. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 183. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 184. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 7 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 185. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 186. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 1 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 187. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 0 
+	Avatar ID: 3 X: 4 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 188. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 3 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 0 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 189. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 2 
+	Avatar ID: 1 X: 6 Y: 3 
+	Avatar ID: 2 X: 8 Y: 0 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 190. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 2 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 8 Y: 0 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 191. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 2 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 5 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 192. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 2 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 193. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 1 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 194. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 1 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 195. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 1 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 196. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 1 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 197. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 0 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 198. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 0 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 9 Y: 0 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 199. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 0 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 10 Y: 0 
+	Avatar ID: 3 X: 6 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 200. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 8 Y: 0 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 10 Y: 0 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 201. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 0 
+	Avatar ID: 1 X: 5 Y: 3 
+	Avatar ID: 2 X: 10 Y: 0 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 202. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 0 
+	Avatar ID: 1 X: 5 Y: 4 
+	Avatar ID: 2 X: 10 Y: 0 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 203. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 0 
+	Avatar ID: 1 X: 5 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 204. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 0 
+	Avatar ID: 1 X: 5 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 205. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 0 
+	Avatar ID: 1 X: 5 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 206. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 0 
+	Avatar ID: 1 X: 4 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 207. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 0 
+	Avatar ID: 1 X: 4 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 208. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 0 
+	Avatar ID: 1 X: 4 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 209. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 1 
+	Avatar ID: 1 X: 4 Y: 4 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 210. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 211. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 7 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 212. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 213. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 214. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 10 Y: 1 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 215. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 8 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 216. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 217. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 4 Y: 3 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 218. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 219. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 9 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 220. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 221. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 222. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 223. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 9 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 224. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 225. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 226. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 227. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 8 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 228. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 229. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 3 Y: 3 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 230. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 3 Y: 4 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 231. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 3 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 8 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 232. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 3 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 233. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 3 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 234. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 2 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move west.
+
+
+Iteration: 235. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 2 Y: 4 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 8 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 236. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 2 Y: 4 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move west.
+
+
+Iteration: 237. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 2 Y: 4 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 238. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 239. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 1 
+	Avatar ID: 3 X: 9 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 240. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 1 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 241. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 1 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 1 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 242. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 1 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 1 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 243. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 1 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 9 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 244. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 1 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 245. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 2 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 246. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 247. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 10 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 248. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 249. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 3 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 250. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 3 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 251. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 3 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 9 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 252. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 3 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 253. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 254. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 3 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 255. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 11 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 256. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 9 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 257. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 1 Y: 3 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 258. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 1 Y: 4 
+	Avatar ID: 2 X: 9 Y: 2 
+	Avatar ID: 3 X: 10 Y: 8 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 259. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 1 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 10 Y: 8 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 260. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 2 
+	Avatar ID: 1 X: 1 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 10 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 261. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 1 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 10 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 262. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 0 Y: 4 
+	Avatar ID: 2 X: 10 Y: 2 
+	Avatar ID: 3 X: 10 Y: 7 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 263. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 0 Y: 4 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 10 Y: 7 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 264. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 10 Y: 3 
+	Avatar ID: 1 X: 0 Y: 4 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 10 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 265. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 0 Y: 4 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 10 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 266. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 0 Y: 3 
+	Avatar ID: 2 X: 10 Y: 3 
+	Avatar ID: 3 X: 10 Y: 6 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 267. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 0 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 10 Y: 6 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 268. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 0 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 10 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 269. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 0 Y: 3 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 10 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 270. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 0 Y: 2 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 10 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 271. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 0 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 10 Y: 5 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 272. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 0 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 10 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 273. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 0 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 10 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 274. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 1 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 10 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 275. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 1 Y: 2 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 10 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 276. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 1 Y: 2 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 9 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 277. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 1 Y: 2 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 9 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 278. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 9 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 279. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 9 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 280. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 8 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move south.
+
+
+Iteration: 281. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 7 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 8 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 282. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 7 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 8 Y: 4 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move south.
+
+
+Iteration: 283. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 7 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 7 
+	Avatar ID: 3 X: 8 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move west.
+
+
+Iteration: 284. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 7 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 7 
+	Avatar ID: 3 X: 7 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 285. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 2 
+	Avatar ID: 2 X: 11 Y: 7 
+	Avatar ID: 3 X: 7 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 286. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 1 
+	Avatar ID: 2 X: 11 Y: 7 
+	Avatar ID: 3 X: 7 Y: 4 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 287. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 1 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 7 Y: 4 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 288. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 6 
+	Avatar ID: 1 X: 2 Y: 1 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 7 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 289. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 2 Y: 1 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 7 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 290. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 3 Y: 1 
+	Avatar ID: 2 X: 11 Y: 6 
+	Avatar ID: 3 X: 7 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 291. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 3 Y: 1 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 7 Y: 3 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 292. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 5 
+	Avatar ID: 1 X: 3 Y: 1 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 8 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 293. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 3 Y: 1 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 8 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 294. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 3 Y: 2 
+	Avatar ID: 2 X: 11 Y: 5 
+	Avatar ID: 3 X: 8 Y: 3 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 295. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 3 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 8 Y: 3 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 296. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 4 
+	Avatar ID: 1 X: 3 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 8 Y: 2 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 297. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 3 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 8 Y: 2 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 298. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 4 Y: 2 
+	Avatar ID: 2 X: 11 Y: 4 
+	Avatar ID: 3 X: 8 Y: 2 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 299. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 4 Y: 2 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 2 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 300. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 3 
+	Avatar ID: 1 X: 4 Y: 2 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 301. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 4 Y: 2 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 302. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 5 Y: 2 
+	Avatar ID: 2 X: 11 Y: 3 
+	Avatar ID: 3 X: 8 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 303. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 5 Y: 2 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 8 Y: 1 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 304. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 2 
+	Avatar ID: 1 X: 5 Y: 2 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 8 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 305. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 5 Y: 2 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 8 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 306. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 2 
+	Avatar ID: 3 X: 8 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 307. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 8 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 308. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 1 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move north.
+
+
+Iteration: 309. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 310. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 1 
+	Avatar ID: 3 X: 9 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move north.
+
+
+Iteration: 311. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 9 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 312. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 313. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 314. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 315. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move south.
+
+
+Iteration: 316. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 317. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 1 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 318. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 1 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 319. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 10 Y: 1 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 320. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 321. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 1 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 322. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 1 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 323. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 1 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move north.
+
+
+Iteration: 324. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 325. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 326. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 327. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 328. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 329. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 330. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 331. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 332. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 333. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 334. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 335. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 336. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 337. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 338. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 339. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 340. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 341. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 342. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 343. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 344. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 345. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 346. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 347. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 348. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 349. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 350. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 351. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 352. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 353. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 6 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 354. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 355. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 356. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 357. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 358. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 359. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 360. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 361. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 362. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 363. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 364. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 365. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 366. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 367. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 368. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 369. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 370. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 371. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 372. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 373. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 374. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 375. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 376. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 377. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 378. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 379. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 380. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 381. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 382. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 383. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 384. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 385. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 386. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 387. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 388. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 389. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 390. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 391. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 392. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 393. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 394. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 395. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 396. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 397. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 398. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 399. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 400. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 401. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 402. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 403. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 404. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 405. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 406. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 407. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 408. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 409. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 410. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 411. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 412. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 413. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 7 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 414. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 415. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 416. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 417. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 6 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 418. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 419. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 420. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 421. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 5 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 422. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 423. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 424. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 425. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 426. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 427. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 428. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 429. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 430. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 431. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 432. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 433. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move west.
+
+
+Iteration: 434. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 435. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 436. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 437. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 4 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 438. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 439. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 440. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 441. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 7 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 442. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 443. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 444. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 445. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 3 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 446. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 447. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 448. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 449. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 2 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 450. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 451. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 452. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 453. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+
+Iteration: 454. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful and wall filled behind.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 455. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 456. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 457. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 8 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 458. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 459. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 460. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 461. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 9 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 462. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 463. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 464. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 465. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 0 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move south.
+
+
+Iteration: 466. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 467. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 468. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 469. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 10 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move east.
+
+
+Iteration: 470. It is avatar #2's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 11 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Move successful.
+	Avatar #2 is now requesting to move east.
+
+
+Iteration: 471. It is avatar #3's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 11 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #3 is now requesting to move east.
+
+
+Iteration: 472. It is avatar #0's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 11 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #0 is now requesting to move east.
+
+
+Iteration: 473. It is avatar #1's turn. Current positions by avatar: 
+	Avatar ID: 0 X: 11 Y: 0 
+	Avatar ID: 1 X: 11 Y: 1 
+	Avatar ID: 2 X: 11 Y: 0 
+	Avatar ID: 3 X: 11 Y: 0 
+	The result of the previous turn is: Wall found.
+	Avatar #1 is now requesting to move north.
+
+*** Received AM_MAZE_SOLVED ***
+Message contents: Num avatars: 4; Difficulty level: 2; Num moves: 473; Hash: -1657001398
